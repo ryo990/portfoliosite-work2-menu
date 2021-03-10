@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+body{
+  background-color:#EEE;
+}
+
+.wrapper{
+  text-align:center;
+}
+
+.wrapper h1{
+  color:olive;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper h3{
+  font-family:'Playfair Display', serif;
+}
+
+.coffee{
+  display:flex;
+  justify-content:center;
+  font-family:'Playfair Display', serif;
+  text-align:center;
+  height:300px;
+  padding:50px;
+}
+
+.coffee-image{
+  width:50%;
+}
+
+.coffee-image img{
+  width:300;
+  height:300px;
+}
+
+.coffee-ward{
+  width:50%;
+}
+
+.coffee-ward h1{
+  color:maroon;
+  font-size:30px;
+}
+
+.latte{
+  display:flex;
+  justify-content:center;
+  font-family:'Playfair Display', serif;
+  text-align:center;
+  height:300px;
+  padding:50px;
+}
+
+.latte-ward{
+  width:50%;
+}
+
+.latte-ward h1{
+  color:olive;
+  font-size:30px;
+}
+
+.latte-image{
+  width:50%;
+}
+
+.latte-image img{
+  width:300;
+  height:300px;
+}
+
+.food{
+  display:flex;
+  justify-content:center;
+  font-family:'Playfair Display', serif;
+  text-align:center;
+  height:300px;
+  padding:50px;
+}
+
+.food-image{
+  width:50%;
+}
+
+.food-image img{
+  width:300;
+  height:300px;
+}
+
+.food-ward{
+  width:50%;
+}
+
+.food-ward h1{
+  color:teal;
+  font-size:30px;
+}
+
+footer{
+  background-color:silver;
+  text-align:center;
+}
